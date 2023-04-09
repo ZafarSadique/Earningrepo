@@ -556,13 +556,13 @@ async def settings(client, message):
                 ),
             ],
             [
-                InlineKeyboardButton('Cʟᴏsᴇ Sᴇᴛᴛɪɴɢs', callback_data='close_data')
-            ],
-            [
                 InlineKeyboardButton('ShortLink',callback_data=f'setgs#is_shortlink#{settings["is_shortlink"]}#{grp_id}',
                 ),
                 InlineKeyboardButton('✔ Oɴ' if settings["is_shortlink"] else '✘ Oғғ',callback_data=f'setgs#is_shortlink#{settings["is_shortlink"]}#{grp_id}',
                 ),
+            ],
+            [
+                InlineKeyboardButton('Cʟᴏsᴇ Sᴇᴛᴛɪɴɢs', callback_data='close_data')
             ],
         ]
 

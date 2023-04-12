@@ -9,7 +9,7 @@ class script(object):
 
 <b>──────「 <a href='https://t.me/zsbhere'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
 
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏғ ᴍᴏɴᴇʏ ғʀᴏᴍ <a href='https://t.me/alluarjun09_bot'>ᴛʜɪꜱ</a>  ʙᴏᴛ ᴡɪᴛʜ ғʀᴇᴇ ᴛᴏ ᴜsᴇ ʙᴏᴛ.
+ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏғ ᴍᴏɴᴇʏ ғʀᴏᴍ <a href='https://t.me/samantha_herebot'>ᴛʜɪꜱ</a>  ʙᴏᴛ ᴡɪᴛʜ ғʀᴇᴇ ᴛᴏ ᴜsᴇ ʙᴏᴛ.
 
 ›› sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 0 ᴍᴇᴍʙᴇʀs.
 

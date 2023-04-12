@@ -565,7 +565,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('❗ Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('🕵️ Aʙᴏᴜᴛ', callback_data='about'),
                 ],[
-                    InlineKeyboardButton('🔒 Cʟᴏsᴇ Mᴇɴᴜ', callback_data='close_data')
+                    InlineKeyboardButton('ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴡɪᴛʜ ʙᴏᴛ', callback_data='aks')
                   ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -622,6 +622,18 @@ async def cb_handler(client: Client, query: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
             text=script.SOURCE_TXT,
+            reply_markup=reply_markup,
+            parse_mode=enums.ParseMode.HTML
+        )
+        elif query.data == "aks":
+        buttons = [[
+            InlineKeyboardButton('Contact Support', url='https://telegram.me/Owner_Here_Bot')],[
+            InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='start'),
+            InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
+        ]]
+        reply_markup = InlineKeyboardMarkup(buttons)
+        await query.message.edit_text(
+            text=script.AKS_TXT,
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )

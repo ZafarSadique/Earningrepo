@@ -5,7 +5,7 @@ class script(object):
 ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ.
 ɪ ᴡᴏʀᴋ ᴏɴ ʙᴏᴛʜ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ.</b>"""
 
-    EARN_TXT = """
+    AKS_TXT = """
 
 <b>──────「 <a href='https://t.me/zsbhere'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
 

@@ -625,7 +625,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
-        elif query.data == "aks":
+    elif query.data == "aks":
         buttons = [[
             InlineKeyboardButton('Contact Support', url='https://telegram.me/Owner_Here_Bot')],[
             InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='start'),
